@@ -15,9 +15,11 @@ using stable numerical methods.
   and visualized
 
 the equation solved is :
-$$
--\frac{\hbar^2}{2m}\frac{d^2 \psi(x)}{dx^2} + V(x)\psi(x) = E\psi(x)
-$$
+
+
+$$-\frac{\hbar^2}{2m}\frac{d^2 \psi(x)}{dx^2} + V(x)\psi(x) = E\psi(x)$$
+
+
 
 
 ## Tools 
@@ -25,7 +27,7 @@ $$
 - Numpy
 - Matplotlib
 
-# key results 
+## key results 
 - computed bound-state energy levels for selected
   potential profiles
 - verified numerical solutions against known analytical
